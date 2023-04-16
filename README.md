@@ -1,122 +1,166 @@
-# books
-curated list of books i liked
+# The book titles are listed in the language i did read them.
+ Unchecked books are yet to be read
 
----
-sci-fi
-Stephen baxter
-  Time
-  Space
-  Origins
+## sci-fi
 
-Peter Watts
-  Starfish
-  Rifteurs
-  Behemoth
+- Stephen Baxter
+>  1. - [x] Time
+>  2. - [x] Space
+>  3. - [x] Origins
 
-Nail Gaiman
-  Good omens
-  American gods
-  Neverwhere
+- Peter Watts
+>  1. - [x] Starfish
+>  2. - [x] Rifteurs
+>  3. - [x] Behemoth
 
-Vernor Vinge
-  Un feu sur l'abîme
-  Au trefond du ciel
-  Rainbows End
+- Neil Gaiman
+>  - - [x] Good omens
+>  - - [x] American gods
+>  - - [x] Neverwhere
 
-Stephen Baxter & Terry Pratchett 
-  La longue terre
-  La longue guerre
-  La longue Mars
-  La longue utopie
-  Le long cosmos
+- Vernor Vinge
+>  - - [x] Rainbows End
+>  - - [x] Au tréfond du ciel
 
-Dan Simmons
-  Hyperion
-  The fall of Hyperion
+>  1. - [x] Un feu sur l'abîme
+>  2. - [ ] Les enfants du ciel
 
-Ernest Cline
-  Ready player one
+- Stephen Baxter & Terry Pratchett 
+>  1. - [x] La longue terre
+>  2. - [x] La longue guerre
+>  3. - [x] La longue Mars
+>  4. - [ ] La longue utopie
+>  5. - [ ] Le long cosmos
 
----
-fantasy
-Ian Esselmont
-  Night of Knives
-  Return of the Crimson Guard
-  Stonewielder
-  Orb Sceptre Throne
-  Blood and Bone
+- Dan Simmons
+>  1. - [x] Hyperion
+>  2. - [x] The fall of Hyperion
 
-  Dancer's Lament
-  Deadhouse Landing
-  Kellanved's Reach
-  Forge of the High Mage
-  Assail
+- Ernest Cline
+>  - - [x] Ready player one
 
-Steven Erikson
-  Gardens of the Moon
-  Deadhouse Gates
-  Memories of Ice
-  House of Chains
-  Midnight Tides
-  The Bonehunters
-  Reaper's Gale
-  Toll the Hounds
-  Dust of Dreams
-  The Crippled God
-
-Glen Cook
-  La Compagnie noire
-  Le Château noir
-  La Rose blanche
-  Jeux d'ombres
-  Rêves d'acier
-  Saisons funestes
-  Elle est les ténèbres
-  L'eau dort
-  Soldats de pierre
-
-  La tyrannie de la nuit
-  Seigneur du royaume silencieux
-  Soumettez-vous à la nuit
+- Johan Elliot
+>  1. - [x] La lune seule le sait
+>  2. - [x] La lune n'est pas pour nous
+>  3. - [x] La lune vous salue bien
   
-G.R.R. Martin
-  A Game of Thrones
-  A Clash of Kings
-  A Storm of Swords
-  A Feast for Crows
-  A Dance with Dragons
-  The Winds of Winter
-  A Dream of Spring
-
-Jean-Philippe Jaworski
-  Gagner la guerre
-  Même pas mort
-
-Jean-Louis Fetjaine
-  Le Crépuscule des elfes
-  La Nuit des elfes
-  L'Heure des elfes
-  Le pas de Maerlin
-  Brocéliande
----
-misc
-
-LL Koetzer 
-    CLEER 
-
-Daniel Keyes
-  Des fleurs pour Algernon
-
-DOA
-  Pukhtu primo
-  Pukhtu secundo
+- Richard Morgan
+>  1. - [x] Carbone modifié
+>  2. - [x] Anges déchus
+>  3. - [x] Furies déchainées
   
-Alexandre DUmas
-  Les trois mousquetaires
-  Vingt ans après
-  Le vicomte de Bragleonne
+- William Gibson
+>  1. - [x] Neuromancer
+>  2. - [x] Count Zero
+>  3. - [x] Mona Lisa s'éclate
   
----
-technology
+## fantasy
+
+- Ian Esselmont
+>  1. - [x] Night of Knives
+>  2. - [x] Return of the Crimson Guard
+>  3. - [ ] Stonewielder
+>  4. - [ ] Orb Sceptre Throne
+>  5. - [ ] Blood and Bone
+
+>  1. - [x] Dancer's Lament
+>  2. - [x] Deadhouse Landing
+>  3. - [ ] Kellanved's Reach
+>  4. - [ ] Forge of the High Mage
+>  5. - [ ] Assail
+
+- Steven Erikson
+>  1. - [x] Gardens of the Moon
+>  2. - [x] Deadhouse Gates
+>  3. - [x] Memories of Ice
+>  4. - [x] House of Chains
+>  5. - [x] Midnight Tides
+>  6. - [x] The Bonehunters
+>  7. - [x] Reaper's Gale
+>  8. - [x] Toll the Hounds
+>  9. - [x] Dust of Dreams
+>  10. - [x] The Crippled God
+
+- Glen Cook
+>  1. - [x] La Compagnie noire
+>  2. - [x] Le Château noir
+>  3. - [x] La Rose blanche
+>  4. - [x] Jeux d'ombres
+>  5. - [x] Rêves d'acier
+>  6. - [x] Saisons funestes
+>  7. - [x] Elle est les ténèbres
+>  8. - [x] L'eau dort
+>  9. - [x] Soldats de pierre
+  
+>  1. - [x] La tyrannie de la nuit
+>  2. - [x] Seigneur du royaume silencieux
+>  3. - [x] Soumettez-vous à la nuit
+  
+- G.R.R. Martin
+>  1. - [x] A Game of Thrones
+>  2. - [x] A Clash of Kings
+>  3. - [x] A Storm of Swords
+>  4. - [x] A Feast for Crows
+>  5. - [x] A Dance with Dragons
+>  6. - [ ] The Winds of Winter
+>  7. - [ ] A Dream of Spring
+
+- Jean-Philippe Jaworski
+>  - - [x] Gagner la guerre
+
+>  1. - [x] Même pas mort
+>  2. - [ ] Chasse Royale I
+>  3. - [ ] Chasse Royale II
+>  4. - [ ] Chasse Royale III
+
+- Jean-Louis Fetjaine
+>  1. - [x] Le Crépuscule des elfes
+>  2. - [x] La Nuit des elfes
+>  3. - [x] L'Heure des elfes
+  
+>  1. - [x] Le pas de Maerlin
+>  2. - [x] Brocéliande
+
+- Andrzej Sapkowski
+>  1. - [x] Blood of Elves
+>  2. - [x] Time of Contempt
+>  3. - [ ] Baptism of Fire
+>  4. - [ ] The Tower of the Swallow
+>  5. - [ ] The Lady of the Lake
+>  6. - [ ] Season of Storms
+
+## post-apocalyptic 
+
+- Dimitry Glukhovsky
+>  1. - [x] Metro 2033
+>  2. - [x] Metro 2034
+>  3. - [x] Metro 2035
+
+- Mark Brooks
+>  - - [x] World war Z
+  
+- Paolo Bacigalupi
+>  - - [x] The water knife
+  
+## misceallaneous
+
+- LL Koetzer 
+>    - - [x] CLEER 
+
+- Daniel Keyes
+>  - - [x] Des fleurs pour Algernon
+
+- DOA
+>  1. - [x] Pukhtu primo
+>  2. - [x] Pukhtu secundo
+  
+- Alexandre Dumas
+>  1. - [x] Les trois mousquetaires
+>  2. - [x] Vingt ans après
+>  3. - [x] Le vicomte de Bragelonne
+  
+
+  
+
 
 
