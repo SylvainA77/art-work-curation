@@ -1,5 +1,5 @@
-# The book titles are listed in the language i did read them.
- Unchecked books are yet to be read
+# The titles are listed in the language i did read/watch/play them.
+ Unchecked pieces are yet to be read/watched/played
 
 ## books
 
@@ -43,7 +43,18 @@
 >  1. - [x] La lune seule le sait
 >  2. - [x] La lune n'est pas pour nous
 >  3. - [x] La lune vous salue bien
-  
+
+- Alastair Reynolds
+> - - [x] Diamond dogs
+
+>  1. - [x] L'Espace de la révélation
+>  2. - [x] Chasm city
+>  3. - [X] Redemption Ark
+>  4. - [ ] Absolution Gap
+
+-Mary Doria Russell
+>  - - [x] Le moineau de dieu
+
 - Richard Morgan
 >  1. - [x] Carbone modifié
 >  2. - [x] Anges déchus
@@ -214,10 +225,16 @@
 
 ## games
 
+> - - [x] pong
+
+> - - [x] space invaders
+
+> - - [x] tetris
+
 > 1. - [x] Diablo I + Hellfire
 > 2. - [x] Diablo II + Lord of destruction
 > 3. - [x] Diablo III + Reaper of souls
-> 1. - [ ] Diablo IV
+> 4. - [ ] Diablo IV
  
 > - - [x] syndicate
 
@@ -226,8 +243,6 @@
 > - - [x] Fallout
 
 > - - [x] cyberpunk 2077
-
-> - - [x] tetris
 
 > - - [x] Dune
 
