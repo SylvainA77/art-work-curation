@@ -1,7 +1,7 @@
 # The book titles are listed in the language i did read them.
  Unchecked books are yet to be read
 
-## sci-fi
+## books
 
 - Stephen Baxter
 >  1. - [x] Time
@@ -54,8 +54,6 @@
 >  2. - [x] Count Zero
 >  3. - [x] Mona Lisa s'éclate
   
-## fantasy
-
 - Ian Esselmont
 >  1. - [x] Night of Knives
 >  2. - [x] Return of the Crimson Guard
@@ -129,8 +127,6 @@
 >  5. - [ ] The Lady of the Lake
 >  6. - [ ] Season of Storms
 
-## post-apocalyptic 
-
 - Dimitry Glukhovsky
 >  1. - [x] Metro 2033
 >  2. - [x] Metro 2034
@@ -142,8 +138,6 @@
 - Paolo Bacigalupi
 >  - - [x] The water knife
   
-## misceallaneous
-
 - LL Koetzer 
 >    - - [x] CLEER 
 
@@ -160,7 +154,85 @@
 >  3. - [x] Le vicomte de Bragelonne
   
 
-  
+## movies
+> - - [x] Le bon, la brute et le truand  
 
+> - - [x] Avalon
 
+> - - [x] Ocean's eleven
 
+> - - [x] Fight club
+
+> - - [x] Apocalypse Now : redux
+
+> - - [x] The shining
+
+> - - [x] Alien
+
+> - - [x] The mask
+
+> - - [x] La société des poètes disparus
+
+> - - [x] La vie est un long fleuve tranquille
+
+> - - [x] Leon
+
+> - - [x] L'avocat du diable
+
+> - - [x] Eternal sunshine of a spotless mind
+
+>  1. - [x] The Fellowship of the Ring
+>  2. - [x] The Two Towers
+>  3. - [x] The Return of the King
+
+>  1. - [x] A new hope
+>  2. - [x] The empire strikes back
+>  3. - [x] Return of the Jedi
+
+> - - [x]  3h10 pour Yuma (2007)
+
+> - - [x] True grit
+
+> - - [x] Burn after reading
+
+> - - [x] The matrix
+
+> - - [x] Pulp fiction
+
+> - - [x] Mile 22
+
+> - - [x] Brokeback mountain
+
+## mangas
+> - - [x] Ghost in the shell
+
+> - - [x] Akira
+
+> - - [x] Princesse monoke
+
+> - - [x] Le tombeau des lucioles
+
+## games
+
+> 1. - [x] Diablo I + Hellfire
+> 2. - [x] Diablo II + Lord of destruction
+> 3. - [x] Diablo III + Reaper of souls
+> 1. - [ ] Diablo IV
+ 
+> - - [x] syndicate
+
+> - - [x] The division
+
+> - - [x] Fallout
+
+> - - [x] cyberpunk 2077
+
+> - - [x] tetris
+
+> - - [x] Dune
+
+> - - [x] Outriders
+
+> - - [x] The ascent
+
+> - - [x] The witcher
