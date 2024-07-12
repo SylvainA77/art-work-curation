@@ -239,6 +239,7 @@
 > - - [x] syndicate
 
 > - - [x] The division
+>   - [x] The division 2
 
 > - - [x] Fallout
 
@@ -251,3 +252,5 @@
 > - - [x] The ascent
 
 > - - [x] The witcher
+
+>   - [x] Escape from tarkov 
